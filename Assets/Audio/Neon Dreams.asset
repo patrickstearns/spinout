@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f98ff770e36744d43b0e76593c357d9b, type: 3}
+  m_Name: Neon Dreams
+  m_EditorClassIdentifier: 
+  Clip: {fileID: 8300000, guid: 0eb78b8bca33bea488d0279fc1f43724, type: 3}
+  TrackName: Neon Dreams
+  ArtistName: Artur Aravidi
+  ProductionCredit: pixabay.com
